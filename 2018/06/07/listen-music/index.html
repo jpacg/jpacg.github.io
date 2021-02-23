@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+    <head>
+    <meta charset="utf-8">
+    <!--
+        hexo-theme-suka © SukkaW
+        GitHub: https://github.com/SukkaW/hexo-theme-suka
+    -->
+
+    <!-- ### Resource Hint ### -->
+
+    <!-- ## DNS Prefetch ## -->
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+
+<!-- busuanzi -->
+
+    <link rel="dns-prefetch" href="//busuanzi.ibruce.info">
+
+
+<!-- comment -->
+
+
+
+    <link rel="dns-prefetch" href="//api.github.com">
+    <link rel="dns-prefetch" href="//cors-anywhere.reacg.com">
+
+
+
+
+
+<!-- analytics -->
+
+
+
+
+
+
+
+    <!-- ## Preload ## -->
+    
+    <!-- Busuanzi -->
+    
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/busuanzi@2.3.0/bsz.pure.mini.js" as="script">
+
+
+
+
+
+
+
+    <!-- ### Meta & Title & Info ### -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+    <meta name="renderer" content="webkit">
+
+    <!-- Title -->
+    <title>聆听音乐 | 纯白</title>
+
+    <!-- Favicons -->
+    <link rel="icon" type="image&#x2F;ico" href="/img/favicon.ico"><link rel="icon" typt="image&#x2F;png" sizes="32x32" href="/img/favicon-32x32.png"><link rel="icon" typt="image&#x2F;png" sizes="16x16" href="/img/favicon-16x16.png">
+
+    <!-- ### Import File ### -->
+    <link rel="stylesheet" href="/lib/spectre/spectre.min.css"><style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    a, a:visited {
+        color: #0070ff;
+    }
+
+    a:active, a:focus, a:hover {
+        color: #0070ff;
+        opacity: .75;
+    }
+
+    #post-content a,
+    #post-content a:hover,
+    #post-content a:focus,
+    #post-content a:visited {
+        color: #005eb9;
+        opacity: 1;
+    }
+
+    
+
+    .post-entry .card-body a {
+        color: #0070ff;
+    }
+
+    .avatar {
+        background: #444;
+    }
+
+    .navbar-link,
+    .navbar-link:visited,
+    .timeline .timeline-item .timeline-icon.icon-lg {
+        color: #0070ff;
+    }
+
+    .navbar-link:hover {
+        color: #0070ff;
+        opacity: .8;
+    }
+
+    #search-input .btn,
+    #disqus_click_btn,
+    #disqus-switch-to-direct,
+    #disqus-loadmore-button {
+        background: #727e96;
+        border-color: #727e96;
+        color: #fff;
+    }
+
+    #post-toc a.post-toc-link,
+    #post-toc a.post-toc-link:visited,
+    .share-menu.menu .menu-item>a {
+        color: #727e96;
+    }
+
+    .share-menu.menu .menu-item>a:hover,
+    .share-menu.menu .menu-item>a:focus,
+    .share-menu.menu .menu-item>a:visited {
+        color: #50596c;
+        background: #f8f9fa;
+        opacity: .85;
+    }
+</style><link rel="stylesheet" href="/css/style.min.css">
+
+
+
+
+
+
+
+
+    <!-- Prettify Theme -->
+    
+    <link rel="preload" href="/css/highlight/github.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="/css/highlight/github.min.css"></noscript>
+
+
+
+
+
+<script>
+/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+</script>
+
+    <!-- ### Site Verification ### -->
+    
+
+
+    <link rel="alternate" type="application/atom+xml" href="/atom.xml"><meta name="mobile-web-app-capable" content="yes"><meta name="application-name" content="纯白"><meta name="msapplication-starturl" content="https://jpacg.me"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="纯白"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- ### The Open Graph & Twitter Card Protocol ### -->
+    <meta property="og:title" content="聆听音乐 | 纯白"><meta property="og:site_name" content="纯白"><meta property="og:type" content="article"><meta property="og:url" content="https://jpacg.me/2018/06/07/listen-music/"><meta property="og:locale" content="zh-CN"><meta name="description" content="那些年听的动漫音乐 NEXT TO YOUBelief君の知らない物語英雄 運命の詩agonyBlue Skies (REVOKE REMIX)Blue SkiesMentai Cosmic (feat. Nicamoq)にんじゃりばんばんゴメンネ♥ぞ!Not You旅詩I SAY YES(wedding version)運命の夜 -piano ver.-釘宮がサザエさんのBGMモブ・除霊99 ( - jpacg - 纯白"><meta name="keywords" content="音乐"><meta property="article:published_time" content="2018-06-07T05:34:16.000Z"><meta property="article:modified_time" content="2020-01-14T13:56:44.000Z"><meta property="og:updated_time" content="2020-01-14T13:56:44.000Z"><meta property="article:author" content="jpacg"><meta property="article:tag" content="音乐"><meta name="twitter:card" content="summary">
+
+    
+
+    <!-- ### Canonical link ### -->
+    <link rel="canonical" href="https://jpacg.me/2018/06/07/listen-music/">
+
+    <meta name="generator" content="Hexo 5.4.0">
+
+    <!-- ### Analytics ### -->
+    
+
+
+
+
+
+
+
+    <!-- ### Structured Data ### -->
+    
+
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "url": "https://jpacg.me/2018/06/07/listen-music/",
+    "@type": "BlogPosting",
+    "logo": "https://jpacg.me/img/favicon-32x32.png",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://jpacg.me/2018/06/07/listen-music/"
+    },
+    "headline": "聆听音乐 | 纯白",
+    
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://jpacg.me/img/favicon-32x32.png"
+    },
+    
+    "datePublished": "2018-06-07T05:34:16.000Z",
+    "dateModified": "2020-01-14T13:56:44.000Z",
+    "author": {
+        "@type": "Person",
+        "name": "jpacg",
+        "image": {
+            "@type": "ImageObject",
+            "url": "//cdn.jsdelivr.net/gh/jpacg/cos/blog/avatar.png"
+        },
+        "description": "Hi, nice to meet you."
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "纯白",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://jpacg.me/img/favicon-32x32.png"
+        }
+    },
+    
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://jpacg.me/search?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+    },
+    
+    "keywords": "音乐",
+    "description": "那些年听的动漫音乐 NEXT TO YOUBelief君の知らない物語英雄 運命の詩agonyBlue Skies (REVOKE REMIX)Blue SkiesMentai Cosmic (feat. Nicamoq)にんじゃりばんばんゴメンネ♥ぞ!Not You旅詩I SAY YES(wedding version)運命の夜 -piano ver.-釘宮がサザエさんのBGMモブ・除霊99 ( - jpacg - 纯白"
+}
+</script>
+
+
+
+    <!-- ### Custom Head ### -->
+    
+</head>
+
+    <body>
+            
+
+            <!-- ### Main content ### -->
+            <!-- ## Header ##-->
+<header>
+    <h1 class="header-title text-center"><a href="/">纯白</a></h1>
+
+    <p class="text-center header-slogan">
+        
+            
+                Hi, nice to meet you.
+            
+        
+    </p>
+
+    <nav class="navbar-section text-center">
+    
+        <a href="/" class="navbar-link">首页</a>
+    
+    
+        <a href="/archives/" class="navbar-link">归档</a>
+    
+    
+        <a href="/search" class="navbar-link">搜索</a>
+    
+    
+        <a href="/tags/" class="navbar-link">标签</a>
+    
+        <a href="/links/" class="navbar-link">友链</a>
+    
+        <a href="/about/" class="navbar-link">关于</a>
+    
+    
+    
+</nav>
+</header>
+
+            
+    <!-- ## Post ## -->
+    <div class="post-container">
+    <div id="post-card" class="card">
+        
+        <div class="card-item-container">
+            <div class="card-inner-cell">
+                <!-- # Post Header Info # -->
+                <div class="card-header">
+                    
+    <h1 class="card-title h3 mb-2">聆听音乐</h1>
+
+
+
+
+<div class="post-header-info">
+    <p class="post-header-info-left text-gray">
+        <img class="author-thumb lazyload" data-src="//cdn.jsdelivr.net/gh/jpacg/cos/blog/avatar.png" src="/img/suka-lazyload.gif" alt="jpacg's Avatar">
+        <span>2018-06-07</span>
+        
+            <span class="suka-devide-dot"></span>
+            <a class="category-link" href="/categories/%E5%8A%A8%E6%BC%AB/">动漫</a>
+        
+        
+            <!-- Busuanzi Post Views -->
+<span id="busuanzi_container_page_pv" hidden>
+    <span class="suka-devide-dot"></span>
+    <span></span>
+    <span id="busuanzi_value_page_pv"></span>
+    <span>Views</span>
+</span>
+        
+        
+    </p>
+    <div class="post-header-info-right">
+        
+    </div>
+</div>
+                </div>
+                <div class="card-body">
+                    
+                        
+                        
+                    
+                    <article id="post-content">
+                        <p>那些年听的动漫音乐</p>
+<p>NEXT TO YOU<br>Belief<br>君の知らない物語<br>英雄 運命の詩<br>agony<br>Blue Skies (REVOKE REMIX)<br>Blue Skies<br>Mentai Cosmic (feat. Nicamoq)<br>にんじゃりばんばん<br>ゴメンネ♥<br>ぞ!<br>Not You<br>旅詩<br>I SAY YES(wedding version)<br>運命の夜 -piano ver.-<br>釘宮がサザエさんのBGM<br>モブ・除霊<br>99 (TV EDIT)<br>モブ・感情の爆発<br>Diamond<br>半妖 犬夜叉<br>Rage Your Dream<br>ムーンライト伝説<br>深い森<br>brave heart<br>魔訶不思議アドベンチャー!<br>World Break -Main Theme-<br>nowhere<br>焔の扉<br>BLOODY HOLIC <del>add Chorus Mix 2015<br>暁の车<br>命のユースティティア<br>ninelie（Cyan Lpegd bootleg)<br>斎唄-いわいうた- full version<br>JINGO JUNGLE（幼女战记 OP）<br>adamant faith<br>again ~アニメ Version</del><br>bL∞dy f8 -eUC-<br>銅鑼Gong4N<br>Paradisus-Paradoxum<br>STYX HELIX<br>Secret<br>Seirei<br>Trust in you<br>極楽浄土<br>もののけ姫(ヴォーカル)<br>Brave Song<br>secret base <del>君がくれたもの</del> (10 years after Ver.)<br>This game<br>One more time, One more chance<br>My Soul,Your Beats!<br>扉をあけて<br>sugar sweet nightmare<br>God only knows<br>ミレナリオ<br>HIKARI<br>Preserved Roses<br>そばにいるよ<br>文学少女で“文学少女”<br>コイノシルシ<br>契约<br>REALISM<br>运命の夜<br>disillusion(TVサイズ)<br>孤独な巡礼<br>心做し<br>ゼロの使い魔<del>三美姫の轮舞</del>3Dドラマ シエスタ编<br>with“you”－絆－<br>風を待った日<br>破滅の純情<br>Departures <del>Blessing</del><br>エウテルペ – 双声道版<br>Kabaneri Of The Iron Fortress<br>ninelie<br>運命の轟き<br>アイキャッチ<br>栄光の星の元で<br>永遠語り～El Ragna～<br>永遠語り～光ノ歌～<br>モアザンワーズ<br>aLIEz [mZk ver.]<br>aLIEz<br>自由の代償 [劇場版Size]<br>Redo<br>Perfect Time &lt;再arr&gt;<br>【三畿道】禁忌边界线（Cover ワルキューレ）<br>冬越し村<br>时を越えて かごめ<br>白映<br>断罪の花 <del>Guilty Sky</del><br>I talk to the rain<br>One night<br>Departures <del>あなたにおくるアイの歌</del><br>Pandora hearts<br>Maze(TV-Size)<br>東風-tempo up-<br>Ana<br>Last Regrets (Full Chorus Version)<br>メグメル <del>cuckool mix 2007</del><br>TORCH<br>風の辿り着く場所 (Short Version)<br>Farewell Song<br>青空<br>願い事ひとつだけ<br>羽根<br>镇命歌 -しずめうた-<br>星の在り処<br>当我孤独的时候还可以抱着你<br>Luv Letter<br>云流れ<br>fortissimo-the ultimate crisis-<br>One More Chance!!<br>Keep on keeping on<br>BRE@TH//LESS<br>grilletto<br>God knows…<br>Let Me Hear<br>I wish <del>tri.Version</del><br>Hacking to the Gate<br>朧月<br>潮鳴りII<br>ふわふわ時間(#23『放課後!』Mix)<br>Sparkling Daydream<br>オラリオン<br>ディアブレイブ<br>アクアテラリウム<br>アルミナ<br>Mirror<br>Hello,world!<br>奈落の花<br>you<br>月灯り<br>=ONESELF<br>fallen down<br>冬のエピローグ<br>光るなら<br>小さなてのひら<br>だんご大家族<br>シンシアの光<br>Planetes<br>Release My Soul<br>回レ! 雪月花<br>brave heart(TVサイズ)<br>灼け落ちない翼<br>Glitter (Starving Trancer Remix) – remix<br>scaPEGoat<br>X.U.<br>悲しみの向こうへ<br>LEVEL5 -judgelight-<br>All Alone With You<br>一番の宝物 (Original Version)<br>时代を超える想い2<br>逆さまの蝶<br>モザイクカケラ<br>Masquerade<br>僕は、鸟になる.<br>Continued Story<br>Stories<br>風の辿り着く場所 (Full Chorus Version)<br>残酷な天使のテーゼ<br>不安定な神様<br>デート・ア・ライブ<br>Hacking to the Gate<br>スカイクラッドの観測者<br>COLORS<br>brave heart<br>エウテルペ <del>Silence</del><br>My Dearest<br>βίος<br>aLIEz (TV size)<br>aLIEz<br>時を刻む唄<br>鳥の詩<br>Ana<br>Continued Story<br>銀閃の風<br>君の文字<br>灼け落ちない翼<br>Bravely You<br>千本桜<br>町、時の流れ、人<br>願いが叶う場所II<br>black bullet<br>Life Goes On<br>空想メソロギヰ<br>幻想<br>激と撃<br>孤独<br>哀と悲<br>沸き上がる闘志<br>Lui si chiama…<br>潮鳴り<br>you are my love<br>ship of fools<br>a song of storm and fire<br>BLAZE<br>BLAZE(TVサイズ)<br>Rage Your Dream<br>Bravely You<br>まどろみの轮廻<br>夢想歌<br>たった1つの想い<br>Lil’ Goldfish<br>かくしん的☆めたまるふぉ～ぜっ!<br>ラピスラズリ<br>My Dearest<br>ミカヅキ<br>BLOOD LAD<br>Departures〜あなたにおくるアイの歌〜 (TV Edit) -Instrumental- – instrumental<br>Euterpe -Instrumental- – instrumental<br>Departures 〜あなたにおくるアイの歌〜 -Instrumental- – instrumental<br>Departures 〜あなたにおくるアイの歌〜 -BOOM BOOM SATELLITES Remix- – remix<br>Departures 〜あなたにおくるアイの歌〜 (TV Edit)<br>Euterpe<br>Departures〜あなたにおくるアイの歌〜<br>微笑みの彼方<br>Parallel Hearts<br>冥夜花伝廊<br>黄昏の海<br>深海の孤独<br>トライアングラー<br>奇迹の海<br>焔の扉<br>オムナ マグニ<br>創聖のアクエリオン お兄さまと<br>モノクローム<br>Compass<br>プレパレード<br>Lunatic Tears…<br>ボクらの冒険<br>キズナノユクエ feat.五位堂結 (TV Edit)<br>God only knows -Secrets of the Goddess- (Extract)<br>you are my love<br>Empire of Angels<br>A Whole New World God Only Knows<br>BLOODY HOLIC <del>without vocal<br>美しき残酷な世界<br>BLOODY HOLIC<br>Stream of Consciousness<br>C.C.モノローグ<br>If I were a Bird<br>sweets parade<br>高雅</del>メインテーマ<br>You<br>secret base <del>君がくれたもの</del><br>ライオン<br>创圣のアクエリオン(オープニングテーマ)<br>ワールドイズマイン<br>irony<br>Dearest～Original Mix～<br>Glitter (Starving Trancer Remix Edit) feat.Mayumi Morinaga – remix<br>恋は渾沌の隷也<br>only my railgun -TVサイズ-<br>Blue Bird<br>NO,Thank You!<br>小さな手のひら<br>Don’t say “lazy”<br>Bad Apple!!<br>残酷な天使のテーゼ<br>Time after time〜花舞う街で〜<br>God knows…<br>Butter-Fly<br>暁の车<br>メグメル<br>to the beginning<br>Butter-Fly<br>暁の車<br>鳥の詩<br>きみにとどけ<br>恋愛サーキュレーション<br>oblivious<br>残酷な天使のテーゼ<br>ブルーバード<br>名前のない怪物<br>コネクト<br>crossing field<br>红莲の弓矢<br>βios<br>only my railgun</p>
+
+                    </article>
+                    
+
+
+    <blockquote id="date-expire-notification" class="post-expired-notify">本文最后更新于 <span id="date-expire-num"></span> 天前，文中所描述的信息可能已发生改变</blockquote>
+    <script>
+    (function() {
+        var dateUpdate = Date.parse("2020-01-14");
+        var nowDate = new Date();
+        var a = nowDate.getTime();
+        var b = a - dateUpdate;
+        var daysUpdateExpire = Math.floor(b/(24*3600*1000));
+        if (daysUpdateExpire >= 120) {
+            document.getElementById('date-expire-num').innerHTML = daysUpdateExpire;
+        } else {
+            document.getElementById('date-expire-notification').style.display = 'none';
+        }
+    })();
+    </script>
+
+
+<p class="post-footer-info mb-0 pt-0">本文发表于&nbsp;<time datetime="2018-06-07T05:34:16.000Z" itemprop="datePublished">2018-06-07</time>
+
+    , 最后修改于&nbsp;<time datetime="2020-01-14T13:56:44.000Z" itemprop="dateModified">2020-01-14</time>
+
+</p>
+<p class="post-footer-info mb-0 pt-2">
+
+<span class="post-categories-list mt-2">
+
+<a class="post-categories-list-item" href='/categories/%E5%8A%A8%E6%BC%AB/'>动漫</a>
+
+</span>
+
+
+
+<span class="post-tags-list mt-2">
+
+<a class="post-tags-list-item" href="/tags/%E9%9F%B3%E4%B9%90/" rel="tag">#&nbsp;音乐</a>
+
+</span>
+
+
+</p>
+
+                </div>
+                <div class="post-nav px-2 bg-gray">
+<ul class="pagination">
+    <!-- Prev Nav -->
+    
+        <li class="page-item page-prev">
+            <a href="/2018/06/10/my-nas/" rel="prev">
+                <div class="page-item-title"><i class="icon icon-back" aria-hidden="true"></i></div>
+                <div class="page-item-subtitle">我的NAS</div>
+            </a>
+        </li>
+    
+
+    <!-- Next Nav -->
+    
+        <li class="page-item page-next">
+            <a href="/2018/05/17/vip/" rel="next">
+                <div class="page-item-title"><i class="icon icon-forward" aria-hidden="true"></i></div>
+                <div class="page-item-subtitle">VIP</div>
+            </a>
+        </li>
+    
+</ul>
+</div>
+
+                
+                    <!-- # Comment # -->
+                    
+                        <div class="card-footer post-comment">
+                            <!-- Gitalk Container -->
+<div id="gitalk-container"></div>
+
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/gitalk@1.7.0/dist/gitalk.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1.7.0/dist/gitalk.min.css"></noscript>
+
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1.7.0/dist/gitalk.min.js"></script>
+
+<script>
+    var gitalk = new Gitalk({
+            clientID: '91795becacbfd119ceb3',
+            clientSecret: '3e53e0748b710f7762e84dd55a8a45482999a724',
+            repo: 'comment',
+            owner: 'jpacg',
+            admin: ['jpacg'],
+            // facebook-like distraction free mode
+            distractionFreeMode: false,
+            id: window.location.pathname,
+            proxy: 'https://cors-anywhere.reacg.com/https://github.com/login/oauth/access_token'
+        })
+   gitalk.render('gitalk-container')
+</script>
+                        </div>
+                    
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+            <!-- ### Footer ### -->
+            <footer class="text-center">
+    <!-- footer copyright -->
+    
+        <p class="footer-copyright mb-0">Copyright&nbsp;©&nbsp;<span id="copyright-year"></span>
+            <a class="footer-copyright-a" href="https://jpacg.me">纯白</a>
+        </p>
+
+    <!-- footer custom text -->
+    <p class="footer-text mb-0">
+    
+    </p>
+    <!-- footer develop info -->
+    <p class="footer-develop mb-0">
+        
+    <!-- Busuanzi User Views -->
+    <span id="busuanzi_container_site_uv" hidden>
+        <span></span>
+        <span id="busuanzi_value_site_uv"></span>
+        <span>Viewers</span>
+        
+            <span>|</span>
+        
+    </span>
+
+
+
+
+        
+        Powered by&nbsp;<!--
+         --><a href="https://hexo.io" target="_blank" class="footer-develop-a" rel="external nofollow noopener noreferrer">Hexo</a><span class="footer-develop-divider"></span>Theme&nbsp;-&nbsp;<!--
+         --><a href="https://github.com/SukkaW/hexo-theme-suka" target="_blank" class="footer-develop-a" rel="external noopener">Suka</a>
+    </p>
+</footer>
+
+
+        <!-- ### Import File ### -->
+        <!-- ### Footer JS Import ### -->
+
+<script>
+
+    
+window.lazyLoadOptions = {
+    elements_selector: ".lazyload",
+    threshold: 50
+};
+document.getElementById('copyright-year').textContent = new Date().getFullYear();
+console.log('\n %c Suka Theme (hexo-theme-suka) | © SukkaW | Verision 1.3.3 %c https://github.com/SukkaW/hexo-theme-suka \n', 'color: #fff; background: #444; padding:5px 0;', 'background: #bbb; padding:5px 0;');
+
+</script>
+
+<script src="/lib/vanilla-lazyload/lazyload.min.js" async></script>
+    <script src="https://cdn.jsdelivr.net/npm/busuanzi@2.3.0/bsz.pure.mini.js" async></script>
+
+
+<!-- Offset -->
+
+
+
+
+<!-- Comment -->
+
+    
+        <!-- GitTalk -->
+    
+
+
+<!-- ### Custom Footer ### -->
+<script>window.ga_tid = "UA-156186246-1";window.ga_api = "https://blog.jpacg.workers.dev/";</script><script src="https://cdn.jsdelivr.net/npm/cfga@1.0.2" async></script>
+    </body>
+
+</html>
