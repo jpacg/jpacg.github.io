@@ -6,7 +6,7 @@
   <link href="https://jpacg.me/atom.xml" rel="self"/>
   
   <link href="https://jpacg.me/"/>
-  <updated>2020-06-03T01:26:17.000Z</updated>
+  <updated>2022-01-13T10:02:02.670Z</updated>
   <id>https://jpacg.me/</id>
   
   <author>
@@ -17,19 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>new-theme</title>
+    <link href="https://jpacg.me/2022/01/13/new-theme/"/>
+    <id>https://jpacg.me/2022/01/13/new-theme/</id>
+    <published>2022-01-13T10:02:02.000Z</published>
+    <updated>2022-01-13T10:02:02.670Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      
+      
+    <summary type="html">
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>2020我的新电脑</title>
     <link href="https://jpacg.me/2020/03/12/2020-new-pc/"/>
     <id>https://jpacg.me/2020/03/12/2020-new-pc/</id>
     <published>2020-03-12T15:43:12.000Z</published>
     <updated>2020-06-03T01:26:17.000Z</updated>
     
-    <content type="html"><![CDATA[<p>电脑很久就装好了，一直没写博客，现在写了一点。<br>疫情期间在家没事干，看了很多硬件的评测，自己选购的主机。</p><h2 id="我的硬件"><a href="#我的硬件" class="headerlink" title="我的硬件"></a>我的硬件</h2><table><thead><tr><th align="left">硬件</th><th align="left">名称</th><th align="left">价格</th><th align="left">备注</th></tr></thead><tbody><tr><td align="left">CPU</td><td align="left">AMD 锐龙7 3800X</td><td align="left">2449</td><td align="left">8核16线程</td></tr><tr><td align="left">主板</td><td align="left">技嘉 X570 AORUS PRO WIFI</td><td align="left">1698</td><td align="left"></td></tr><tr><td align="left">内存</td><td align="left">海盗船 复仇者LPX DDR4 3600 16GB*2</td><td align="left">1318</td><td align="left"></td></tr><tr><td align="left">显卡</td><td align="left">华硕 ROG-STRIX-RX5700XT-O8G-GAMING OC</td><td align="left">3539</td><td align="left"></td></tr><tr><td align="left">散热器</td><td align="left">利民 AS120PLUS 刺灵</td><td align="left">149</td><td align="left"></td></tr><tr><td align="left">机箱</td><td align="left">先马 鲁班1</td><td align="left">199</td><td align="left"></td></tr><tr><td align="left">电源</td><td align="left">海韵 FOCUS GX750 750W电源</td><td align="left">699</td><td align="left"></td></tr><tr><td align="left">固态硬盘</td><td align="left">海盗船 1TB Force MP600</td><td align="left">2049</td><td align="left">​PCI-E 4.0(NVMe协议)</td></tr><tr><td align="left">总价</td><td align="left">2449+1698+1318+3539+149+199+699+2049</td><td align="left">12100</td><td align="left"></td></tr></tbody></table><h2 id="硬件小结"><a href="#硬件小结" class="headerlink" title="硬件小结"></a>硬件小结</h2><h3 id="CPU"><a href="#CPU" class="headerlink" title="CPU"></a>CPU</h3><p>最初是打算选3600X的，配合微星B450M迫击炮，一共2000多，对标intel的i5。但由于入了X570的主板，所以就提升了点选的3800X</p><h3 id="主板"><a href="#主板" class="headerlink" title="主板"></a>主板</h3><p>过年在家看了很多主板的评测，最初是打算入手3600x + 微星B450M迫击炮Max的，因为疫情的原因在家多待的几个星期，结果主板就缺货了，没办法，只能换了。</p><p>因为都说华硕的超频方便, BIOS做的好，就打算入华硕的一款 <a href="https://item.jd.com/100003815417.html">华硕 TUF GAMING X570-PLUS (WI-FI)</a>，后来在什么值得买上看到技嘉的这款，供电豪华，还支持WiFi6，不过还是比较贵的。</p><h3 id="电源"><a href="#电源" class="headerlink" title="电源"></a>电源</h3><p>电源就好选多了，因为是电脑稳定的核心，所以就入手好的，看了几个一线品牌，都说全汉缩水，最后还是决定海韵的，看了历史价格，当时贵了，还好京东电脑节，便宜了不少。<br>其实不在意全模组，不会理线的全模组也没用，还是插满了一堆线。10年质保，不过电源的新标准要出来了，没必要买这么好的，选日系电容的，不要买核弹就好。</p><h3 id="内存"><a href="#内存" class="headerlink" title="内存"></a>内存</h3><p>本来看好金士顿的，结果还是缺货，入了海盗船，听网上说和AMD兼容不好，不过我没发现问题，都挺好的。开XMP自动超频，需要注意的是频率要*2才是真实的，之前不知道，一直以为内存有问题，频率上不来。Intel想要内存超频得上Z390主板，其它的不行</p><h3 id="固态硬盘"><a href="#固态硬盘" class="headerlink" title="固态硬盘"></a>固态硬盘</h3><p>固态硬盘一直准备上<a href="https://item.jd.com/100003181110.html">三星 970 EVO Plus 500G</a>，结果到买的时候发现居然涨价了，之前只要799的，现在要869了，心里不平衡，就没打算买了。<br>但固态硬盘貌似只有三星的全好评，X570主板支持PCIE4.0，就搜了一下，只有海盗船有，最低还是1T的，算下来2元1G，也还行，就入手了。装机的时候自带的散热不好拆，弄了好久，直接滑到地上了，心凉了半截，有痕迹肯定不好退了，想着芯片还有用，返修会不会便宜些，仔细检查发现金手指那里摔到了，其它地方没问题，装到电脑上能用就没换了。</p><h3 id="散热器"><a href="#散热器" class="headerlink" title="散热器"></a>散热器</h3><p>没什么研究，网上看到说这款好就入了，双风扇版本翻车，声音特别大，只装一个风扇就好多了。目前只装了一个风扇。不过自带的导热硅脂都干了，粘不上CPU，就随便弄了点，散热也没啥问题。</p><h3 id="显卡"><a href="#显卡" class="headerlink" title="显卡"></a>显卡</h3><p>因为要黑苹果，显卡只选AMD的，5700XT在macOS 10.15免驱了，就决定买5700XT了，虽然不便宜。<br>当初想入蓝宝石的，但质保好像不行，而且只有两年，华硕的3年质保，选了个最好的，ROG败家之眼信仰。</p><h3 id="机箱"><a href="#机箱" class="headerlink" title="机箱"></a>机箱</h3><p>机箱就随便了，只要够用就好。</p><h2 id="装机过程"><a href="#装机过程" class="headerlink" title="装机过程"></a>装机过程</h2><p>后续再写</p>]]></content>
+    <content type="html"><![CDATA[<p>电脑很久就装好了，一直没写博客，现在写了一点。<br>疫情期间在家没事干，看了很多硬件的评测，自己选购的主机。</p><h2 id="我的硬件"><a href="#我的硬件" class="headerlink" title="我的硬件"></a>我的硬件</h2><div class="story post-story"><table><thead><tr><th align="left">硬件</th><th align="left">名称</th><th align="left">价格</th><th align="left">备注</th></tr></thead><tbody><tr><td align="left">CPU</td><td align="left">AMD 锐龙7 3800X</td><td align="left">2449</td><td align="left">8核16线程</td></tr><tr><td align="left">主板</td><td align="left">技嘉 X570 AORUS PRO WIFI</td><td align="left">1698</td><td align="left"></td></tr><tr><td align="left">内存</td><td align="left">海盗船 复仇者LPX DDR4 3600 16GB*2</td><td align="left">1318</td><td align="left"></td></tr><tr><td align="left">显卡</td><td align="left">华硕 ROG-STRIX-RX5700XT-O8G-GAMING OC</td><td align="left">3539</td><td align="left"></td></tr><tr><td align="left">散热器</td><td align="left">利民 AS120PLUS 刺灵</td><td align="left">149</td><td align="left"></td></tr><tr><td align="left">机箱</td><td align="left">先马 鲁班1</td><td align="left">199</td><td align="left"></td></tr><tr><td align="left">电源</td><td align="left">海韵 FOCUS GX750 750W电源</td><td align="left">699</td><td align="left"></td></tr><tr><td align="left">固态硬盘</td><td align="left">海盗船 1TB Force MP600</td><td align="left">2049</td><td align="left">​PCI-E 4.0(NVMe协议)</td></tr><tr><td align="left">总价</td><td align="left">2449+1698+1318+3539+149+199+699+2049</td><td align="left">12100</td><td align="left"></td></tr></tbody></table></div><h2 id="硬件小结"><a href="#硬件小结" class="headerlink" title="硬件小结"></a>硬件小结</h2><div class="story post-story"><h3 id="CPU"><a href="#CPU" class="headerlink" title="CPU"></a>CPU</h3><p>最初是打算选3600X的，配合微星B450M迫击炮，一共2000多，对标intel的i5。但由于入了X570的主板，所以就提升了点选的3800X</p><h3 id="主板"><a href="#主板" class="headerlink" title="主板"></a>主板</h3><p>过年在家看了很多主板的评测，最初是打算入手3600x + 微星B450M迫击炮Max的，因为疫情的原因在家多待的几个星期，结果主板就缺货了，没办法，只能换了。</p><p>因为都说华硕的超频方便, BIOS做的好，就打算入华硕的一款 <a href="https://item.jd.com/100003815417.html">华硕 TUF GAMING X570-PLUS (WI-FI)</a>，后来在什么值得买上看到技嘉的这款，供电豪华，还支持WiFi6，不过还是比较贵的。</p><h3 id="电源"><a href="#电源" class="headerlink" title="电源"></a>电源</h3><p>电源就好选多了，因为是电脑稳定的核心，所以就入手好的，看了几个一线品牌，都说全汉缩水，最后还是决定海韵的，看了历史价格，当时贵了，还好京东电脑节，便宜了不少。<br>其实不在意全模组，不会理线的全模组也没用，还是插满了一堆线。10年质保，不过电源的新标准要出来了，没必要买这么好的，选日系电容的，不要买核弹就好。</p><h3 id="内存"><a href="#内存" class="headerlink" title="内存"></a>内存</h3><p>本来看好金士顿的，结果还是缺货，入了海盗船，听网上说和AMD兼容不好，不过我没发现问题，都挺好的。开XMP自动超频，需要注意的是频率要*2才是真实的，之前不知道，一直以为内存有问题，频率上不来。Intel想要内存超频得上Z390主板，其它的不行</p><h3 id="固态硬盘"><a href="#固态硬盘" class="headerlink" title="固态硬盘"></a>固态硬盘</h3><p>固态硬盘一直准备上<a href="https://item.jd.com/100003181110.html">三星 970 EVO Plus 500G</a>，结果到买的时候发现居然涨价了，之前只要799的，现在要869了，心里不平衡，就没打算买了。<br>但固态硬盘貌似只有三星的全好评，X570主板支持PCIE4.0，就搜了一下，只有海盗船有，最低还是1T的，算下来2元1G，也还行，就入手了。装机的时候自带的散热不好拆，弄了好久，直接滑到地上了，心凉了半截，有痕迹肯定不好退了，想着芯片还有用，返修会不会便宜些，仔细检查发现金手指那里摔到了，其它地方没问题，装到电脑上能用就没换了。</p><h3 id="散热器"><a href="#散热器" class="headerlink" title="散热器"></a>散热器</h3><p>没什么研究，网上看到说这款好就入了，双风扇版本翻车，声音特别大，只装一个风扇就好多了。目前只装了一个风扇。不过自带的导热硅脂都干了，粘不上CPU，就随便弄了点，散热也没啥问题。</p><h3 id="显卡"><a href="#显卡" class="headerlink" title="显卡"></a>显卡</h3><p>因为要黑苹果，显卡只选AMD的，5700XT在macOS 10.15免驱了，就决定买5700XT了，虽然不便宜。<br>当初想入蓝宝石的，但质保好像不行，而且只有两年，华硕的3年质保，选了个最好的，ROG败家之眼信仰。</p><h3 id="机箱"><a href="#机箱" class="headerlink" title="机箱"></a>机箱</h3><p>机箱就随便了，只要够用就好。</p></div><h2 id="装机过程"><a href="#装机过程" class="headerlink" title="装机过程"></a>装机过程</h2><div class="story post-story"><p>后续再写</p></div>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;电脑很久就装好了，一直没写博客，现在写了一点。&lt;br&gt;疫情期间在家没事干，看了很多硬件的评测，自己选购的主机。&lt;/p&gt;
-&lt;h2 id=&quot;我的硬件&quot;&gt;&lt;a href=&quot;#我的硬件&quot; class=&quot;headerlink&quot; title=&quot;我的硬件&quot;&gt;&lt;/a&gt;我的硬件&lt;/h2&gt;&lt;t</summary>
+&lt;h2 id=&quot;我的硬件&quot;&gt;&lt;a href=&quot;#我的硬件&quot; class=&quot;headerlink&quot; title=&quot;我的硬件&quot;&gt;&lt;/a&gt;我的硬件&lt;/h2&gt;&lt;d</summary>
       
     
     
@@ -44,13 +65,13 @@
     <published>2020-01-07T08:57:18.000Z</published>
     <updated>2020-01-14T13:56:44.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>新的一年，新的起点，新的开始。</p><h2 id="博客更换"><a href="#博客更换" class="headerlink" title="博客更换"></a>博客更换</h2><p>之前是使用<code>Wordpress</code>博客，不过由于不怎么写博客，<code>Wordpress</code>就太重了一点，还有一个问题就是<code>Wordpress</code>的<code>PHP</code>有时候会无响应，只能重启<code>php</code>。</p><p><code>hexo</code>就是一个很好的选择了，对我这种几个小时打鱼几个月晒网的人，<code>hexo</code>就很轻量，静态博客不用怎么管理，想写就写，<code>Markdown</code>格式通用且迁移方便。</p><p>使用的是一个简单优雅的主题<a href="https://github.com/SukkaW/hexo-theme-suka">Suka Theme</a></p><p>发现一个超好看的博客<a href="https://chanshiyu.com/">蝉時雨</a>，好看的博客系统需要好好维护，我这种太懒的人不行。</p><h2 id="使用GitBook"><a href="#使用GitBook" class="headerlink" title="使用GitBook"></a>使用GitBook</h2><p>最开始使用为知笔记，还充过会员，不过感觉软件一直没有什么进步，还一个明显的退出奔溃Bug一年没修过，感觉跟没测试的人一样。</p><p>后来听说<code>Notion</code>很好用，就转战<code>Notion</code>，把为知的笔记都导进去了，<code>block</code>写法很怪，不习惯。<br>缺点客户端是全网页的，速度很慢，一个简单的<code>table</code>都要插入一个数据库。<br>导出的<code>Markdown</code>的格式很乱，文件名几乎全是<code>Untitled</code>，没法好好迁移备份，也不是正规的<code>Markdown</code>格式。</p><p>现在转到<code>GitBook</code>了，纯<code>Markdown</code>笔记，格式通用，书写方便，还能和<code>Github</code>同步。</p><h2 id="组装一台新的电脑"><a href="#组装一台新的电脑" class="headerlink" title="组装一台新的电脑"></a>组装一台新的电脑</h2><p>准备年后回来配一个高配的台式机，等10代<code>Intel CPU</code>， <code>AMD CPU</code>每一代性能提升太多，旧的不保值。<code>Intel CPU</code>每一代基本没啥提升，所以保值一点，性能价格都比不上<code>AMD</code>。<br><code>AMD</code>什么都好，但<code>AMD CPU</code>不好装黑苹果系统，因为苹果电脑一直用<code>Intel CPU</code>，买和白苹果配置相同更容易黑苹果。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="story post-story"><p>新的一年，新的起点，新的开始。</p></div><h2 id="博客更换"><a href="#博客更换" class="headerlink" title="博客更换"></a>博客更换</h2><div class="story post-story"><p>之前是使用<code>Wordpress</code>博客，不过由于不怎么写博客，<code>Wordpress</code>就太重了一点，还有一个问题就是<code>Wordpress</code>的<code>PHP</code>有时候会无响应，只能重启<code>php</code>。</p><p><code>hexo</code>就是一个很好的选择了，对我这种几个小时打鱼几个月晒网的人，<code>hexo</code>就很轻量，静态博客不用怎么管理，想写就写，<code>Markdown</code>格式通用且迁移方便。</p><p>使用的是一个简单优雅的主题<a href="https://github.com/SukkaW/hexo-theme-suka">Suka Theme</a></p><p>发现一个超好看的博客<a href="https://chanshiyu.com/">蝉時雨</a>，好看的博客系统需要好好维护，我这种太懒的人不行。</p></div><h2 id="使用GitBook"><a href="#使用GitBook" class="headerlink" title="使用GitBook"></a>使用GitBook</h2><div class="story post-story"><p>最开始使用为知笔记，还充过会员，不过感觉软件一直没有什么进步，还一个明显的退出奔溃Bug一年没修过，感觉跟没测试的人一样。</p><p>后来听说<code>Notion</code>很好用，就转战<code>Notion</code>，把为知的笔记都导进去了，<code>block</code>写法很怪，不习惯。<br>缺点客户端是全网页的，速度很慢，一个简单的<code>table</code>都要插入一个数据库。<br>导出的<code>Markdown</code>的格式很乱，文件名几乎全是<code>Untitled</code>，没法好好迁移备份，也不是正规的<code>Markdown</code>格式。</p><p>现在转到<code>GitBook</code>了，纯<code>Markdown</code>笔记，格式通用，书写方便，还能和<code>Github</code>同步。</p></div><h2 id="组装一台新的电脑"><a href="#组装一台新的电脑" class="headerlink" title="组装一台新的电脑"></a>组装一台新的电脑</h2><div class="story post-story"><p>准备年后回来配一个高配的台式机，等10代<code>Intel CPU</code>， <code>AMD CPU</code>每一代性能提升太多，旧的不保值。<code>Intel CPU</code>每一代基本没啥提升，所以保值一点，性能价格都比不上<code>AMD</code>。<br><code>AMD</code>什么都好，但<code>AMD CPU</code>不好装黑苹果系统，因为苹果电脑一直用<code>Intel CPU</code>，买和白苹果配置相同更容易黑苹果。</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;新的一年，新的起点，新的开始。&lt;/p&gt;
-&lt;h2 id=&quot;博客更换&quot;&gt;&lt;a href=&quot;#博客更换&quot; class=&quot;headerlink&quot; t</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;div class=&quot;story post-story&quot;&gt;&lt;p&gt;新的一年，新的起点，新的开始。&lt;/p&gt;
+&lt;/div&gt;&lt;h2 id=&quot;博客更换&quot;&gt;</summary>
       
     
     
@@ -241,15 +262,14 @@
     <published>2018-02-09T14:34:58.000Z</published>
     <updated>2020-01-14T13:56:44.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="随时要用"><a href="#随时要用" class="headerlink" title="随时要用"></a>随时要用</h2><ul><li>iPhone</li><li>65W充电器和Lightning数据线</li><li>移动电源和Lightning数据线</li><li>数据线(Micro-USB接口和Type-C接口)</li><li>剃须刀</li><li>手纸</li><li>换洗衣服若干</li><li>笔记本和充电器</li></ul><h2 id="非常重要"><a href="#非常重要" class="headerlink" title="非常重要"></a>非常重要</h2><ul><li>身份证</li><li>银行卡</li><li>驾驶证</li><li>车钥匙</li></ul><h2 id="其它物品"><a href="#其它物品" class="headerlink" title="其它物品"></a>其它物品</h2><ul><li>毛巾</li><li>牙刷</li></ul><p>回家前关掉所有电源</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="随时要用"><a href="#随时要用" class="headerlink" title="随时要用"></a>随时要用</h2><div class="story post-story"><ul><li>iPhone</li><li>65W充电器和Lightning数据线</li><li>移动电源和Lightning数据线</li><li>数据线(Micro-USB接口和Type-C接口)</li><li>剃须刀</li><li>手纸</li><li>换洗衣服若干</li><li>笔记本和充电器</li></ul></div><h2 id="非常重要"><a href="#非常重要" class="headerlink" title="非常重要"></a>非常重要</h2><div class="story post-story"><ul><li>身份证</li><li>银行卡</li><li>驾驶证</li><li>车钥匙</li></ul></div><h2 id="其它物品"><a href="#其它物品" class="headerlink" title="其它物品"></a>其它物品</h2><div class="story post-story"><ul><li>毛巾</li><li>牙刷</li></ul><p>回家前关掉所有电源</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;随时要用&quot;&gt;&lt;a href=&quot;#随时要用&quot; class=&quot;headerlink&quot; title=&quot;随时要用&quot;&gt;&lt;/a&gt;随时要用&lt;/h2&gt;&lt;ul&gt;
+    <summary type="html">&lt;h2 id=&quot;随时要用&quot;&gt;&lt;a href=&quot;#随时要用&quot; class=&quot;headerlink&quot; title=&quot;随时要用&quot;&gt;&lt;/a&gt;随时要用&lt;/h2&gt;&lt;div class=&quot;story post-story&quot;&gt;&lt;ul&gt;
 &lt;li&gt;iPhone&lt;/li&gt;
-&lt;li&gt;65W充电器和Lightning数据线&lt;/li&gt;
-&lt;li&gt;移动电源和Lightn</summary>
+&lt;li&gt;65W充电器和Lig</summary>
       
     
     
@@ -274,6 +294,7 @@
       
       
     <summary type="html">&lt;p&gt;你的名字 声之形 烟花 聊了这么久，说不联系就不联系了。&lt;/p&gt;
+
 </summary>
       
     
